@@ -1,0 +1,32 @@
+{
+  "name": "stallmanbot",
+  "version": "1.0.0",
+  "description": "It's a bot. It's Richard Stallman.",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/i386sh/stallmanbot.git"
+  },
+  "keywords": [
+    "stallman",
+    "richard",
+    "stallman",
+    "discord",
+    "discord.js",
+    "discord",
+    "bot"
+  ],
+  "author": "notzer0",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/i386sh/stallmanbot/issues"
+  },
+  "homepage": "https://github.com/i386sh/stallmanbot#readme"
+}
